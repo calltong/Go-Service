@@ -1,0 +1,20 @@
+{
+  "ip": "localhost",
+  "port": 8084,
+  "accept_list": [
+    "localhost"
+  ],
+  "database": {
+    "ip": "localhost",
+    "port": 10017,
+    "db_name": "golive_db",
+    "admin": {
+      "username": "calltong",
+      "password": "iamtong2525"
+    },
+    "user": {
+      "username": "calltong",
+      "password": "iamtong2525"
+    }
+  }
+}
